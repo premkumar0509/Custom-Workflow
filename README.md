@@ -17,8 +17,7 @@ It allows you to define and manage record approval processes with status trackin
 ---
 
 ## 📂 Project Structure
-``
-Custom Workflow/
+```
 Custom Workflow/
 │── src/
 │ ├── Codeunits/
@@ -31,7 +30,7 @@ Custom Workflow/
 │ │ └── CustomTableExt.al
 │── app.json
 │── README.md
-``
+```
 ---
 
 ## 🛠️ Tech Stack
@@ -57,7 +56,7 @@ Custom Workflow/
 ---
 
 ## 🔧 Example
-al
+```al
 procedure GetStatusStyleExpr(): Text
 begin
     case Status of
@@ -71,8 +70,7 @@ begin
             exit('Unfavorable');
     end;
 end;
-
-
+```
 ---
 
 ## 🚀 Deployment
