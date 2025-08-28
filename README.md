@@ -1,6 +1,3 @@
-Got it 👍 Here’s your **README.md** in proper markdown format that you can directly place in your repo:
-
-```markdown
 # 🚀 Custom Workflow for Business Central
 
 This project provides a **custom approval workflow** implementation in Microsoft Dynamics 365 Business Central.  
@@ -60,7 +57,7 @@ Custom Workflow/
 ---
 
 ## 🔧 Example
-```al
+al
 procedure GetStatusStyleExpr(): Text
 begin
     case Status of
@@ -96,5 +93,3 @@ This project is licensed under the **MIT License** – free to use and modify.
 ## 👨‍💻 Author
 
 Developed by **Premkumar R** – Business Central Technical Consultant.
-
-```
